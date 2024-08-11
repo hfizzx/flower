@@ -21,4 +21,4 @@ onload = () => {
     }, 1000);
   };
 
-  alert("kasih tau aku di wa ya... 🫶🏼")
+  alert("kasih tau aku di wa ya... ❤️🫶🏼")
